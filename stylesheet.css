@@ -1,0 +1,58 @@
+body {
+	background-color: #f5f5f5;
+}
+
+#container {
+	width: 780px;
+	margin: auto;
+}
+
+#content-name {
+
+	margin-top: 15px;
+	padding: 0 0 15px 0;
+	font-size: 38px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+
+}
+
+
+#content-contact {
+
+	font-size: 16px;
+
+}
+
+#content-objective {
+
+	font-size: 28px;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: -2px;
+	line-height: 28px;
+	border-bottom: 1px solid #999;
+
+}
+
+#content-education {
+	font-size: 16px;
+    border-bottom: 1px solid #999;
+
+}
+
+#content-hardware {
+	border-bottom: 1px solid #999;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
